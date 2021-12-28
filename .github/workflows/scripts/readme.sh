@@ -5,8 +5,6 @@ curl -s -o README.md https://raw.githubusercontent.com/Project-Embr/.github/mast
 echo "
 ---
 
-<br>
-
 <h3 align=center>
 
 Project Embr has its own GitHub Organization **[@Project-Embr](https://github.com/Project-Embr)**.
