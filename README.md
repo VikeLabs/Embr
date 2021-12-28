@@ -1,3 +1,8 @@
+<!---------------------- ->
+|  Auto-Generated README  |
+|     DO NOT EDIT ME!     |
+<---------------------- -->
+
 <h1 align="center">
 		<a href="https://github.com/Project-Embr">
 			<img src="https://avatars.githubusercontent.com/u/54609015" alt="Vikelabs Logo" width="100">
@@ -23,6 +28,6 @@ Project Embr is a UVic **[@Vikelabs](https://github.com/vikeLabs)** project
 
 <h3 align=center>
 
-Project Embr has its own GitHub Organization **[@Project-Embr](https://github.com/Project-Embr)**.
+Project Embr has its own GitHub Organization **[@Project-Embr](https://github.com/Project-Embr)**
 
 </h3>
