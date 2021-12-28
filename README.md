@@ -21,8 +21,6 @@ Project Embr is a UVic **[@Vikelabs](https://github.com/vikeLabs)** project
 
 ---
 
-<br>
-
 <h3 align=center>
 
 Project Embr has its own GitHub Organization **[@Project-Embr](https://github.com/Project-Embr)**.
